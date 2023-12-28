@@ -22,6 +22,9 @@ msgstr "Hallo Welt"
 msgid "Coins"
 msgstr "Kasse"
 
+msgid "Testnets"
+msgstr "Testnetze"
+
 msgid "Exchanges"
 msgstr "Wechselstuben"
 
@@ -109,7 +112,7 @@ msgstr "Kalter Geldbeutel 1"
 msgid "Cold wallet"
 msgstr "Kalter Geldbeutel"
 
-msgid "Barbara's wallet."
+msgid "Barbara's wallet"
 msgstr "Barbaras Brieftasche"
 
 msgid "Invalid address"

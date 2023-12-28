@@ -20,6 +20,9 @@ msgstr "Witaj Światku"
 msgid "Coins"
 msgstr "Pieniążki"
 
+msgid "Testnets"
+msgstr "Sieci testowe"
+
 msgid "Exchanges"
 msgstr "Kantorki"
 
@@ -113,7 +116,7 @@ msgstr "Zimny portfel 1"
 msgid "Cold wallet"
 msgstr "Zimny portfel"
 
-msgid "Barbara's wallet."
+msgid "Barbara's wallet"
 msgstr "Portfelik Basi"
 
 msgid "Invalid address"
