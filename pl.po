@@ -135,6 +135,9 @@ msgstr "Otwórz istniejący zbiór adresów"
 msgid "Save as a new addresses set"
 msgstr "Zachowaj jako nowy zbiór adresów"
 
+msgid "New"
+msgstr "Nowy"
+
 msgid "Cancel"
 msgstr "Zrezygnuj"
 
@@ -143,6 +146,18 @@ msgstr "Otwórz"
 
 msgid "Save"
 msgstr "Zachowaj"
+
+msgid "Home"
+msgstr "Domek"
+
+msgid "Quit"
+msgstr "Koniec"
+
+msgid "About"
+msgstr "O..."
+
+msgid "Help"
+msgstr "Pomoc"
 
 msgid "RC files"
 msgstr "Pliki RC"

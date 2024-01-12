@@ -121,6 +121,20 @@ msgstr "Ungültige Adresse"
 msgid "Not existing address"
 msgstr "Nicht existierende Adresse"
 
+msgid "New"
+msgstr "Neu"
+
+msgid "Home"
+msgstr "Heim"
+
+msgid "Quit"
+msgstr "Beenden"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Help"
+msgstr "Hilfe"
 
 msgid "Open existing addresses set"
 msgstr "Vorhandenen Adresssatz öffnen"
