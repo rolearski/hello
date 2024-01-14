@@ -134,6 +134,18 @@ msgstr "Otwórz istniejący zbiór adresów"
 msgid "Save as a new addresses set"
 msgstr "Zachowaj jako nowy zbiór adresów"
 
+msgid "Add new address"
+msgstr "Dodaj nowy adres"
+
+msgid "Delete selected address"
+msgstr "Usuń wybrany adres"
+
+msgid "Update the record temporarily in the current addresses set"
+msgstr "Uaktualnij tymczasowo ten rekord w aktualnym zbiorze adresów"
+
+msgid "Undo current changes"
+msgstr "Porzuć zmiany"
+
 msgid "James Bond"
 msgstr "Jakiś Błąd"
 

@@ -142,6 +142,18 @@ msgstr "Vorhandenen Adresssatz öffnen"
 msgid "Save as a new addresses set"
 msgstr "Als neuen Adresssatz speichern"
 
+msgid "Add new address"
+msgstr "Neue Adresse hinzufügen"
+
+msgid "Delete selected address"
+msgstr "Ausgewählte Adresse löschen"
+
+msgid "Update the record temporarily in the current addresses set"
+msgstr "Aktualisieren Sie den Datensatz vorübergehend im aktuellen Adresssatz"
+
+msgid "Undo current changes"
+msgstr "Aktuelle Änderungen rückgängig machen"
+
 msgid "James Bond"
 msgstr "Ein Fehler"
 

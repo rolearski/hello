@@ -8,8 +8,8 @@ include_directories(${INTL_INCLUDE_DIRS})
 link_directories(${INTL_LIBRARY_DIRS})
 
 #SET(LOCALE_INSTALL_DIR "/usr/share/locale")
-#SET(LOCALE_INSTALL_DIR "~/.local/share/locale")
-SET(LOCALE_INSTALL_DIR ${CMAKE_CURRENT_BINARY_DIR}/locale)
+SET(LOCALE_INSTALL_DIR "~/.local/share/locale")
+#SET(LOCALE_INSTALL_DIR ${CMAKE_CURRENT_BINARY_DIR}/locale)
 
 FIND_PROGRAM(GETTEXT_MSGFMT_EXECUTABLE msgfmt)
 
