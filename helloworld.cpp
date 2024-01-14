@@ -4,6 +4,7 @@
 HelloWorld::HelloWorld(const char* s)
 : m_button(_(s))   // creates a new button with label
 {
+  this->set_title(_(s));
   // Sets the border width of the window.
   set_border_width(10);
   set_size_request(300, 100);
@@ -26,8 +27,13 @@ HelloWorld::~HelloWorld()
 
 void HelloWorld::on_button_clicked()
 {
-  std::string s = std::string( _("Hello World") ) + " " + std::string( _("Account:") );
-  //this->m_button.set_label(s);
+  std::string s = std::string( _("Let’s make the web multilingual.") );
+  //std::string s = std::string( _("Not existing address") ) ;
+  this->m_button.set_label(s);
+  //s = std::string(_("Open existing addresses set"));
+  this->m_button.set_label(s);
+  this->m_button.set_label(_("James Bond"));
+
   this->set_title(s);
-  //std::cout << s << std::endl;
+  std::cout << s << std::endl;
 }

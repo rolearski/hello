@@ -128,12 +128,14 @@ msgstr "Nieistniejący adres"
 msgid "Let’s make the web multilingual."
 msgstr "Uczyńmy Sieć wielojęzyczni."
 
-
 msgid "Open existing addresses set"
 msgstr "Otwórz istniejący zbiór adresów"
 
 msgid "Save as a new addresses set"
 msgstr "Zachowaj jako nowy zbiór adresów"
+
+msgid "James Bond"
+msgstr "Jakiś Błąd"
 
 msgid "New"
 msgstr "Nowy"

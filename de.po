@@ -142,6 +142,9 @@ msgstr "Vorhandenen Adresssatz öffnen"
 msgid "Save as a new addresses set"
 msgstr "Als neuen Adresssatz speichern"
 
+msgid "James Bond"
+msgstr "Ein Fehler"
+
 msgid "Cancel"
 msgstr "Abbrechen"
 

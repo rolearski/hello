@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 export LANGUAGE=de
 export GDM_LANG=de
 #export GDM_LANG=de_DE

@@ -9,7 +9,7 @@ class HelloWorld : public Gtk::Window
 {
 
 public:
-  HelloWorld(const char* s = "Hello World");
+  HelloWorld(const char *s = _("Hello World"));
   virtual ~HelloWorld();
 
 protected:

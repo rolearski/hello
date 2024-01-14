@@ -7,8 +7,6 @@ find_package(Gettext REQUIRED)
 include_directories(${INTL_INCLUDE_DIRS})
 link_directories(${INTL_LIBRARY_DIRS})
 
-#MESSAGE("OK CMAKE_INSTALL_LOCALEDIR" ${CMAKE_INSTALL_LOCALEDIR})
-#SET(LOCALE_INSTALL_DIR ${CMAKE_INSTALL_LOCALEDIR})
 #SET(LOCALE_INSTALL_DIR "/usr/share/locale")
 #SET(LOCALE_INSTALL_DIR "~/.local/share/locale")
 SET(LOCALE_INSTALL_DIR ${CMAKE_CURRENT_BINARY_DIR}/locale)
@@ -49,17 +47,11 @@ ELSE(NOT GETTEXT_MSGFMT_EXECUTABLE)
 
 ENDIF(NOT GETTEXT_MSGFMT_EXECUTABLE)
 
-
-
-
 find_package(PkgConfig)
 pkg_check_modules(GTKMM gtkmm-3.0) # look into FindPkgConfig.cmake, 
 
 set(THREADS_PREFER_PTHREAD_FLAG ON)
 find_package(Threads REQUIRED)
-
-#set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -lpthread -pthread")
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread -std=c++17")
 
@@ -74,5 +66,3 @@ add_executable(${PROJECT_NAME} "main.cpp" "helloworld.cpp")
 target_link_libraries(hello 
     ${GTKMM_LIBRARIES}  )
 
-#set(THREADS_PREFER_PTHREAD_FLAG ON)
-#find_package(Threads REQUIRED)
