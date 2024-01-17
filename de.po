@@ -19,6 +19,9 @@ msgstr ""
 msgid "Hello World"
 msgstr "Hallo Welt"
 
+msgid "Hi Barbara"
+msgstr "Halo Barabara"
+
 msgid "Coins"
 msgstr "Kasse"
 
@@ -178,6 +181,14 @@ msgstr "Erfolgreich abgeschlossen."
 msgid "Transaction ID"
 msgstr "Transaktions-ID"
 
+msgid "Phrase"
+msgstr "Phrase"
+
+msgid "Phrase repeated"
+msgstr "Phrase wiederholt"
+
+msgid "Show phrase"
+msgstr "Phrase zeigen"
 
 msgid "Let’s make the web multilingual."
 msgstr "Machen wir das Internet mehrsprachig."

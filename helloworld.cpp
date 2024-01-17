@@ -32,7 +32,7 @@ void HelloWorld::on_button_clicked()
   this->m_button.set_label(s);
   //s = std::string(_("Open existing addresses set"));
   this->m_button.set_label(s);
-  this->m_button.set_label(_("James Bond"));
+  this->m_button.set_label(_("Hi Barbara"));
 
   this->set_title(s);
   std::cout << s << std::endl;

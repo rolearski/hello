@@ -17,6 +17,9 @@ msgstr ""
 msgid "Hello World"
 msgstr "Witaj Światku"
 
+msgid "Hi Barbara"
+msgstr "Cześć Basia"
+
 msgid "Coins"
 msgstr "Pieniążki"
 
@@ -175,6 +178,15 @@ msgstr "Pomoc"
 
 msgid "RC files"
 msgstr "Pliki RC"
+
+msgid "Phrase"
+msgstr "Fraza"
+
+msgid "Phrase repeated"
+msgstr "Fraza powtórzona"
+
+msgid "Show phrase"
+msgstr "Pokaż frazę"
 
 msgid "We connect developers and translators around the globe "
 "on Lingohub for a fantastic localization experience."
