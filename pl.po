@@ -81,7 +81,7 @@ msgid "Public key"
 msgstr "Klucz publiczny"
 
 msgid "Private secret"
-msgstr "Prywatny secret"
+msgstr "Prywatny sekret"
 
 msgid "Something has gone wrong! Try again?"
 msgstr "Coś poszło nie tak! Spróbuj ponownie?"
