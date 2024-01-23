@@ -53,6 +53,9 @@ msgstr "Transakcje"
 msgid "Currency"
 msgstr "Waluta"
 
+msgid "Date"
+msgstr "Data"
+
 msgid "Amount"
 msgstr "Ilość"
 
@@ -61,6 +64,12 @@ msgstr "Opłata"
 
 msgid "Transaction hash"
 msgstr "Identyfikator transakcji"
+
+msgid "Recent transactions"
+msgstr "Ostatnie transakcje"
+
+msgid "Overview"
+msgstr "Przegląd"
 
 msgid "Show"
 msgstr "Pokaż"
@@ -94,6 +103,9 @@ msgstr "Udało się."
 
 msgid "Transaction ID"
 msgstr "ID transakcji."
+
+msgid "Wallet"
+msgstr "Portfel"
 
 msgid "Default wallet"
 msgstr " Domyślny portfel"

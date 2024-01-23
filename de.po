@@ -61,8 +61,15 @@ msgstr "Menge"
 msgid "Fee"
 msgstr "Gebühr"
 
+
 msgid "Transaction hash"
 msgstr "Transaktions-Hash"
+
+msgid "Recent transactions"
+msgstr "Kürzliche Transaktionen"
+
+msgid "Overview"
+msgstr "Überblick"
 
 msgid "Show"
 msgstr "Zeige"
@@ -90,6 +97,9 @@ msgstr "Öffentlicher Schlüssel"
 
 msgid "Private secret"
 msgstr "Privates Geheimnis"
+
+msgid "Wallet"
+msgstr "Geldbeutel"
 
 msgid "Default wallet"
 msgstr " Standard-Wallet"
