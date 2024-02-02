@@ -71,8 +71,14 @@ msgstr "Ostatnie transakcje"
 msgid "Overview"
 msgstr "Przegląd"
 
+msgid "Label"
+msgstr "Etykieta"
+
 msgid "Show"
 msgstr "Pokaż"
+
+msgid "Confirmed with"
+msgstr "Potwierdzone przez"
 
 msgid "Make a transfer"
 msgstr "Wykonaj przelew"
@@ -155,8 +161,14 @@ msgstr "Dodaj nowy adres"
 msgid "Delete selected address"
 msgstr "Usuń wybrany adres"
 
-msgid "Update the record temporarily in the current addresses set"
-msgstr "Uaktualnij tymczasowo ten rekord w aktualnym zbiorze adresów"
+msgid "Save addresses : names, keys, secrets!"
+msgstr "Zapisz adresy : nazwy, klucze, sekrety!"
+
+msgid "Declined!"
+msgstr "Zabronione!"
+
+msgid "Sure?"
+msgstr "Na pewno?"
 
 msgid "Undo current changes"
 msgstr "Porzuć zmiany"
@@ -199,6 +211,9 @@ msgstr "Fraza powtórzona"
 
 msgid "Show phrase"
 msgstr "Pokaż frazę"
+
+msgid "Overwrite exsisting"
+msgstr "Zastąpić instniejący plik"
 
 msgid "We connect developers and translators around the globe "
 "on Lingohub for a fantastic localization experience."
