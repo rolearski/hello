@@ -203,6 +203,12 @@ msgstr "Erfolgreich abgeschlossen."
 msgid "Transaction ID"
 msgstr "Transaktions-ID"
 
+msgid "More"
+msgstr "Mehr"
+
+msgid "Details"
+msgstr "Einzelheiten"
+
 msgid "Phrase"
 msgstr "Phrase"
 

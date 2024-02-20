@@ -203,6 +203,12 @@ msgstr "Pomoc"
 msgid "RC files"
 msgstr "Pliki RC"
 
+msgid "More"
+msgstr "Więcej"
+
+msgid "Details"
+msgstr "Szczegóły"
+
 msgid "Phrase"
 msgstr "Fraza"
 
